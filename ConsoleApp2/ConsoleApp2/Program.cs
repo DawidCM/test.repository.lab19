@@ -10,6 +10,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Week 19");
+            Console.ReadLine();
         }
     }
 }
