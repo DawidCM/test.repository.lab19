@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Dawid.Changes");
+            Console.WriteLine("Dawid.Changesssss");
             Console.ReadLine();
         }
     }
